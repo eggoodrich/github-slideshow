@@ -2,5 +2,5 @@
 Layout: slide
 title: "Welcome to the second slide"
 ---
-Your Text
+howdy ho ranger joe
 Use left arrow to go back
